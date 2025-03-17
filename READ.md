@@ -15,6 +15,7 @@ Clone the repository:
 git clone https://github.com/LarryAtGU/mad_ex_week2.git
 cd mad_ex_week2
 npm install
+
 ### Files
 This project includes several files; three require your attention:
 
