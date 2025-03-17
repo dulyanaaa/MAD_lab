@@ -11,7 +11,7 @@ Ensure you have Visual Studio Code and Node.js installed on your computer.
 Follow these steps to set up your development environment:
 
 Clone the repository:
-
+```sh
 git clone https://github.com/LarryAtGU/mad_ex_week2.git
 cd mad_ex_week2
 npm install
@@ -23,7 +23,7 @@ data.js: Provides the data needed for the exercises. Feel free to review it, but
 ex.test.js: Contains test cases. Your goal is to pass all these tests. Avoid modifying this file.
 ### Check your work
 After making changes to questions.js, run the following command to test your work:
-
+sh
 npm test
 If all tests pass (everything is green), congratulations, you've successfully completed the exercises! If there are any failures (red), read the error messages to identify the issue and make necessary corrections in questions.js.
 
